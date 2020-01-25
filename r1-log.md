@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Egor Ivanov]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 26, Saturday, 2019].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D0 26.01.2019
+In this day, I read the rules and started a Simple Dashboard APP based by create-react-app for self-development. This application will be show some API information for specific users. I don't choose yet but this will be API from from https://github.com/toddmotto/public-apis. In an hour from the start, I made the config of ESLint, install sass and create the router. 
 
-### R1D2
+Link-evidence will be added later
+
