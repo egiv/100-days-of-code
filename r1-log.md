@@ -9,3 +9,5 @@ In this day, I read the rules and started a Simple Dashboard APP based by create
 
 Link-evidence will be added later
 
+### R1D1 26.01.2019
+I learned work with react-hooks and mobX in my little project. Also i started develop axios config for getting information from API.
