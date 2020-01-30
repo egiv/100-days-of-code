@@ -12,8 +12,12 @@ Link-evidence will be added later
 ### R1D1 26.01.2019
 I learned work with react-hooks and mobX in my little project. Also Ш started develop axios config for getting information from API.
 
-### R1D1 27.01.2019
+### R1D2 27.01.2019
 Learned MobX for work little more, add the first test request for Youtube API, add semantic-ui library
 
-### R1D1 28.01.2019
+### R1D3 28.01.2019
 I added a new components to my project: Header and Cards from Semantic UI Library and create authorization feature.
+
+
+### R1D4 28.01.2019
+Integrate Modal using my create portal!!!
