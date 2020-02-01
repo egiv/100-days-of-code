@@ -23,3 +23,6 @@ Integrate Modal using my create portal!!!
 
 ### R1D5 31.01.2019
 I learned the case for edit information in my modal. (WIP)
+
+### R1D6 01.02.2019
+I studied the documentation mobX for resolving issues in my current cases 
