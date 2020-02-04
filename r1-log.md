@@ -29,3 +29,9 @@ I studied the documentation mobX for resolving issues in my current cases
 
 ### R1D7 02.02.2020
 Resolve issue with save data to mobX storage. It is important point for me. 
+
+### R1D8 03.02.2020
+I learned the Jest testing (just for lulz lol)
+
+### R1D8 04.02.2020
+Testing https://miragejs.com/
